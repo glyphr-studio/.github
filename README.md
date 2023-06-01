@@ -3,7 +3,7 @@ Glyphr Studio is a free, web based font designer, focusing on font design for ho
 Version 1 is more than 13 years old, and Version 2 is in the pre-release stage.
 For any and all questions, please email [mail@glyphrstudio.com](mailto:mail@glyphrstudio.com).
 
-| Main contact |   |
+| Main contact &nbsp; |   |
 | :-- | :-- |
 | Website | [glyphrstudio.com](https://www.glyphrstudio.com) |
 | Email | [mail@glyphrstudio.com](mailto:mail@glyphrstudio.com) |
