@@ -11,7 +11,7 @@ For any and all questions, please email [mail@glyphrstudio.com](mailto:mail@glyp
 
 | Social media &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 | :-- | :-- |
-| Mastodon | <a rel="me" href="https://typo.social/@glyphrstudio">https://typo.social/@glyphrstudio</a> |
+| Mastodon | <a rel="me" href="https://typo.social/@glyphrstudio">typo.social/@glyphrstudio</a> |
 | Reddit | [reddit.com/r/GlyphrStudio](https://www.reddit.com/r/GlyphrStudio/) |
 | Twitter | [@glyphrstudio](https://twitter.com/glyphrstudio) |
 
