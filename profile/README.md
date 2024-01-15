@@ -12,9 +12,9 @@ For any and all questions, please email [mail@glyphrstudio.com](mailto:mail@glyp
 | Version 2 | &nbsp; |
 | :-- | :-- |
 | App Repository | [github.com/glyphr-studio/Glyphr-Studio-2](https://github.com/glyphr-studio/Glyphr-Studio-2) |
-| App | [glyphrstudio.com/v2/app](https://www.glyphrstudio.com/v2/app) |
+| App | [glyphrstudio.com/app](https://www.glyphrstudio.com/app) |
 | Help Repository | [github.com/glyphr-studio/Glyphr-Studio-2-Help](https://github.com/glyphr-studio/Glyphr-Studio-2-Help) |
-| Help site &nbsp; | [glyphrstudio.com/v2/help](https://www.glyphrstudio.com/v2/help/) |
+| Help site &nbsp; | [glyphrstudio.com/help](https://www.glyphrstudio.com/help/) |
 
 ## Author
 | ![Matthew LaGrandeur's picture](https://1.gravatar.com/avatar/f6f7b963adc54db7e713d7bd5f4903ec?s=70) |
