@@ -3,17 +3,11 @@ Glyphr Studio is a free, web based font designer, focusing on font design for ho
 Version 2 is the default experience. Version 1 is deprecated: no new feature work will happen here, but we may fix major bugs.
 For any and all questions, please email [mail@glyphrstudio.com](mailto:mail@glyphrstudio.com).
 
-| Main contact &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-| :-- | :-- |
-| Website | [glyphrstudio.com](https://www.glyphrstudio.com) |
-| Email | [mail@glyphrstudio.com](mailto:mail@glyphrstudio.com) |
-| Blog | [glyphrstudio.com/blog](https://www.glyphrstudio.com/blog/) |
-
-| Social media &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-| :-- | :-- |
-| Mastodon | <a rel="me" href="https://typo.social/@glyphrstudio">typo.social/@glyphrstudio</a> |
-| Reddit | [reddit.com/r/GlyphrStudio](https://www.reddit.com/r/GlyphrStudio/) |
-| Twitter | [@glyphrstudio](https://twitter.com/glyphrstudio) |
+| Main contact &nbsp; | &nbsp; | Social media &nbsp; | &nbsp; |
+| :-- | :-- | :-- | :-- |
+| Website | [glyphrstudio.com](https://www.glyphrstudio.com) | Mastodon | <a rel="me" href="https://typo.social/@glyphrstudio">typo.social/@glyphrstudio</a> |
+| Email | [mail@glyphrstudio.com](mailto:mail@glyphrstudio.com) | Reddit | [reddit.com/r/GlyphrStudio](https://www.reddit.com/r/GlyphrStudio/) |
+| Blog | [glyphrstudio.com/blog](https://www.glyphrstudio.com/blog/) | Twitter | [@glyphrstudio](https://twitter.com/glyphrstudio) |
 
 | Version 2 | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 | :-- | :-- |
