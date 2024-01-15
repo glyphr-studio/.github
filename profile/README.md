@@ -1,6 +1,6 @@
 # Welcome to Glyphr Studio!
 Glyphr Studio is a free, web based font designer, focusing on font design for hobbyists. 
-Version 1 is more than 13 years old, and Version 2 is in the pre-release stage.
+Version 2 is the default experience. Version 1 is deprecated: no new feature work will happen here, but we may fix major bugs.
 For any and all questions, please email [mail@glyphrstudio.com](mailto:mail@glyphrstudio.com).
 
 | Main contact &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
@@ -15,17 +15,12 @@ For any and all questions, please email [mail@glyphrstudio.com](mailto:mail@glyp
 | Reddit | [reddit.com/r/GlyphrStudio](https://www.reddit.com/r/GlyphrStudio/) |
 | Twitter | [@glyphrstudio](https://twitter.com/glyphrstudio) |
 
-| Version 1 | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-| :-- | :-- |
-| App | [glyphrstudio.com/online](https://www.glyphrstudio.com/online) |
-| Help & Docs &nbsp; | [glyphrstudio.com/help](https://www.glyphrstudio.com/help/) |
-
 | Version 2 | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 | :-- | :-- |
+| App Repository | [github.com/glyphr-studio/Glyphr-Studio-2](https://github.com/glyphr-studio/Glyphr-Studio-2) |
 | App | [glyphrstudio.com/v2/app](https://www.glyphrstudio.com/v2/app) |
+| Help Repository | [github.com/glyphr-studio/Glyphr-Studio-2-Help](https://github.com/glyphr-studio/Glyphr-Studio-2-Help) |
 | Help & Docs &nbsp; | [glyphrstudio.com/v2/help](https://www.glyphrstudio.com/v2/help/) |
-
-
 
 ## Author
 | ![Matthew LaGrandeur's picture](https://1.gravatar.com/avatar/f6f7b963adc54db7e713d7bd5f4903ec?s=70) |
