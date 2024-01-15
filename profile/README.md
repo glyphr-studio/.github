@@ -9,7 +9,7 @@ For any and all questions, please email [mail@glyphrstudio.com](mailto:mail@glyp
 | Email | [mail@glyphrstudio.com](mailto:mail@glyphrstudio.com) | Reddit | [reddit.com/r/GlyphrStudio](https://www.reddit.com/r/GlyphrStudio/) |
 | Blog | [glyphrstudio.com/blog](https://www.glyphrstudio.com/blog/) | Twitter | [@glyphrstudio](https://twitter.com/glyphrstudio) |
 
-| Version 2 | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| Version 2 | &nbsp; |
 | :-- | :-- |
 | App Repository | [github.com/glyphr-studio/Glyphr-Studio-2](https://github.com/glyphr-studio/Glyphr-Studio-2) |
 | App | [glyphrstudio.com/v2/app](https://www.glyphrstudio.com/v2/app) |
