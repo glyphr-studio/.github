@@ -7,7 +7,7 @@ For any and all questions, please email [mail@glyphrstudio.com](mailto:mail@glyp
 | :-- | :-- | :-- | :-- |
 | Website | [glyphrstudio.com](https://www.glyphrstudio.com) | Mastodon | <a rel="me" href="https://typo.social/@glyphrstudio">typo.social/@glyphrstudio</a> |
 | Email | [mail@glyphrstudio.com](mailto:mail@glyphrstudio.com) | Reddit | [reddit.com/r/GlyphrStudio](https://www.reddit.com/r/GlyphrStudio/) |
-| Blog | [glyphrstudio.com/blog](https://www.glyphrstudio.com/blog/) | Twitter | [@glyphrstudio](https://twitter.com/glyphrstudio) |
+| Blog | [glyphrstudio.com/blog](https://www.glyphrstudio.com/blog/) | &nbsp; | &nbsp; |
 
 | Version 2 | &nbsp; |
 | :-- | :-- |
