@@ -6,8 +6,8 @@ For any and all questions, please email [mail@glyphrstudio.com](mailto:mail@glyp
 | Main contact &nbsp; &nbsp; | &nbsp; | Social media &nbsp; | &nbsp; |
 | :-- | :-- | :-- | :-- |
 | Website | [glyphrstudio.com](https://www.glyphrstudio.com) | Mastodon | <a rel="me" href="https://typo.social/@glyphrstudio">typo.social/@glyphrstudio</a> |
-| Email | [mail@glyphrstudio.com](mailto:mail@glyphrstudio.com) | Reddit | [reddit.com/r/GlyphrStudio](https://www.reddit.com/r/GlyphrStudio/) |
-| Blog | [glyphrstudio.com/blog](https://www.glyphrstudio.com/blog/) | &nbsp; | &nbsp; |
+| Email | [mail@glyphrstudio.com](mailto:mail@glyphrstudio.com) | Bluesky | [@glyphrstudio.com](https://bsky.app/profile/glyphrstudio.com) |
+| Blog | [glyphrstudio.com/blog](https://www.glyphrstudio.com/blog/) | Reddit | [reddit.com/r/GlyphrStudio](https://www.reddit.com/r/GlyphrStudio/) |
 
 | Version 2 | &nbsp; |
 | :-- | :-- |
