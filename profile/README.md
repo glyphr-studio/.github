@@ -1,6 +1,5 @@
 # Welcome to Glyphr Studio!
 Glyphr Studio is a free, web based font designer, focusing on font design for hobbyists. 
-Version 2 is the default experience. Version 1 is deprecated: no new feature work will happen here, but we may fix major bugs.
 For any and all questions, please email [mail@glyphrstudio.com](mailto:mail@glyphrstudio.com).
 
 | Main contact &nbsp; &nbsp; | &nbsp; | Social media &nbsp; | &nbsp; |
@@ -9,7 +8,7 @@ For any and all questions, please email [mail@glyphrstudio.com](mailto:mail@glyp
 | Email | [mail@glyphrstudio.com](mailto:mail@glyphrstudio.com) | Bluesky | [@glyphrstudio.com](https://bsky.app/profile/glyphrstudio.com) |
 | Blog | [glyphrstudio.com/blog](https://www.glyphrstudio.com/blog/) | Reddit | [reddit.com/r/GlyphrStudio](https://www.reddit.com/r/GlyphrStudio/) |
 
-| Version 2 | &nbsp; |
+| App, Help, & Repos | &nbsp; |
 | :-- | :-- |
 | App Repository | [github.com/glyphr-studio/Glyphr-Studio-2](https://github.com/glyphr-studio/Glyphr-Studio-2) |
 | App | [glyphrstudio.com/app](https://www.glyphrstudio.com/app) |
